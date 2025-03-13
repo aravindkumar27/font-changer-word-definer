@@ -1,0 +1,11 @@
+/* Styles for the word definition popup */
+.definition-popup {
+  font-family: Arial, sans-serif !important;
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+}
+
+/* Ensure the popup is always visible */
+.definition-popup {
+  z-index: 2147483647 !important;
+} 
